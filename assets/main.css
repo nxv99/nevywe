@@ -81,7 +81,7 @@ body {
 .text-content a {
     font-size: 1.3rem;
     line-height: 1.7;
-    color: #ff9000;
+    color: #9200da;
 }
 
 #overlay-toggle:checked~.overlay {
